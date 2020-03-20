@@ -2,5 +2,4 @@ channels:
   - conda-forge
 dependencies:
   - pip
-  - pip:
-      - julia
+  - julia
