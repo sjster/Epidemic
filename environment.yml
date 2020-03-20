@@ -1,5 +1,4 @@
 channels:
   - conda-forge
 dependencies:
-  - pip
   - julia==1.0.3
