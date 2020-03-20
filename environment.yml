@@ -1,4 +1,0 @@
-channels:
-  - conda-forge
-dependencies:
-  - julia==1.0.3
