@@ -3,4 +3,4 @@ channels:
 dependencies:
   - pip
   - pip:
-      - julia==1.0.3
+      - julia
